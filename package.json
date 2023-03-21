@@ -8,15 +8,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/MisterF1x/goit-js-hw-08.git"
+    "url": "git+https://github.com/yulka-pulka/goit-js-hw-08.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/MisterF1x/goit-js-hw-08/issues"
+    "url": "https://github.com/yulka-pulka/goit-js-hw-08/issues"
   },
-  "homepage": "https://github.com/MisterF1x/goit-js-hw-08#readme",
+  "homepage": "https://github.com/yulka-pulka/goit-js-hw-08#readme",
   "devDependencies": {
     "parcel": "^2.8.3",
     "parcel-reporter-clean-dist": "^1.0.4"
